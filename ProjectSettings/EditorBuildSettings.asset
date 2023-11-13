@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/INICIO.unity
+    guid: d1c44a0e71f20ac47ac64518ec28c36d
+  - enabled: 1
+    path: Assets/Scenes/JUEGOdePITARRA.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GanadorRojo.unity
+    guid: 1bbbf7dd5ba1a974c84b32a393a56d5f
+  - enabled: 1
+    path: Assets/Scenes/GanadorAzul.unity
+    guid: 772aa28a27c43a242948aef35059e7bb
+  - enabled: 1
+    path: Assets/Scenes/MenuDeExtras.unity
+    guid: 81b7b9ea59c1ba041af42b1511467cbd
+  - enabled: 1
+    path: Assets/Scenes/ReglasDelJuego.unity
+    guid: 9b0ff6a9e9e68ca479365f146a117d48
+  - enabled: 1
+    path: Assets/Scenes/OrigenPitarra.unity
+    guid: 1f0a2fd695d90bb49b16a2c4d3cd7f64
+  - enabled: 1
+    path: Assets/Scenes/ImpactoSocial.unity
+    guid: 805c7c2cf13807145bc91f95063905c7
+  m_configObjects: {}
