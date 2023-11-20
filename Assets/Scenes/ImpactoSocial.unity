@@ -220,7 +220,10 @@ RectTransform:
   - {fileID: 1604892294}
   - {fileID: 1963596788}
   - {fileID: 1739437598}
+<<<<<<< HEAD
+=======
   - {fileID: 1537339793}
+>>>>>>> b9e6a3b5fe772f4ef952676debba775b3fc33c32
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -388,6 +391,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+=======
 --- !u!1 &1537339792
 GameObject:
   m_ObjectHideFlags: 0
@@ -549,6 +554,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1537339792}
   m_CullTransparentMesh: 1
+>>>>>>> b9e6a3b5fe772f4ef952676debba775b3fc33c32
 --- !u!1001 &1604892293
 PrefabInstance:
   m_ObjectHideFlags: 0

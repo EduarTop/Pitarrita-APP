@@ -10,6 +10,10 @@ TagManager:
   - TerciaTextoAzul
   - RojoEmpieza
   - AzulEmpieza
+<<<<<<< HEAD
+  - Casilla
+=======
+>>>>>>> b9e6a3b5fe772f4ef952676debba775b3fc33c32
   layers:
   - Default
   - TransparentFX

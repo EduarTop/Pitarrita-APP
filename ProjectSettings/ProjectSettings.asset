@@ -784,7 +784,11 @@ PlayerSettings:
   webGLTemplate: APPLICATION:Default
   webGLAnalyzeBuildSize: 0
   webGLUseEmbeddedResources: 0
+<<<<<<< HEAD
+  webGLCompressionFormat: 2
+=======
   webGLCompressionFormat: 0
+>>>>>>> b9e6a3b5fe772f4ef952676debba775b3fc33c32
   webGLWasmArithmeticExceptions: 0
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0

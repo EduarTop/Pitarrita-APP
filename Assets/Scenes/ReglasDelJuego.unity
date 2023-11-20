@@ -621,6 +621,31 @@ PrefabInstance:
         m\xE1s cercana, sin que este obstaculizando otra ficha \r\npropia o del oponente,
         con el mismo objetivo, formular tercias. El ganador del juego ser\xE1 el
         que \r\nelimine todas las fichas del oponente. \r\n\nLas reglas para jugarlo
+<<<<<<< HEAD
+        en esta aplicaci\xF3n son similares,\npresta atenci\xF3n al sonido de tercia,
+        cuando quites la ficha de tu oponente\nrecuerda ponerla en el cuadrado del
+        fondo con un tono m\xE1s claro de tu respectivo color,\nhay veces en que
+        las partidas pueden quedar atascadas,\nestate atento ya que\nsi fuiste el
+        que atasco la partida en tu respectivo turno ganaste y tienes que poner 10
+        fichas de tu \noponente en  el cuadrado del fondo con un tono m\xE1s claro
+        de tu respectivo color.\n\nEs todo jeje, diviertete pitarreando :)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3241391485920259620, guid: 198179b83b96d0a49ab0de646052163e, type: 3}
+      propertyPath: m_fontSize
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 3241391485920259620, guid: 198179b83b96d0a49ab0de646052163e, type: 3}
+      propertyPath: m_margin.w
+      value: -3.3918457
+      objectReference: {fileID: 0}
+    - target: {fileID: 3241391485920259620, guid: 198179b83b96d0a49ab0de646052163e, type: 3}
+      propertyPath: m_margin.z
+      value: 0.08862341
+      objectReference: {fileID: 0}
+    - target: {fileID: 3241391485920259620, guid: 198179b83b96d0a49ab0de646052163e, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 25
+=======
         en esta aplicaci\xF3n son similares, presta atenci\xF3n al sonido de tercia,
         cuando quites la ficha de tu oponente recuerda ponerla en el cuadrado del
         fondo con un tono m\xE1s claro de tu respectivo color, hay veces en que las
@@ -636,6 +661,7 @@ PrefabInstance:
     - target: {fileID: 3241391485920259620, guid: 198179b83b96d0a49ab0de646052163e, type: 3}
       propertyPath: m_fontSizeBase
       value: 30
+>>>>>>> b9e6a3b5fe772f4ef952676debba775b3fc33c32
       objectReference: {fileID: 0}
     - target: {fileID: 4005422042031675593, guid: 198179b83b96d0a49ab0de646052163e, type: 3}
       propertyPath: m_Pivot.x
@@ -667,7 +693,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4005422042031675593, guid: 198179b83b96d0a49ab0de646052163e, type: 3}
       propertyPath: m_SizeDelta.y
+<<<<<<< HEAD
+      value: 727.79
+=======
       value: 710.83
+>>>>>>> b9e6a3b5fe772f4ef952676debba775b3fc33c32
       objectReference: {fileID: 0}
     - target: {fileID: 4005422042031675593, guid: 198179b83b96d0a49ab0de646052163e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -703,7 +733,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4005422042031675593, guid: 198179b83b96d0a49ab0de646052163e, type: 3}
       propertyPath: m_AnchoredPosition.y
+<<<<<<< HEAD
+      value: -125.48
+=======
       value: -117
+>>>>>>> b9e6a3b5fe772f4ef952676debba775b3fc33c32
       objectReference: {fileID: 0}
     - target: {fileID: 4005422042031675593, guid: 198179b83b96d0a49ab0de646052163e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
